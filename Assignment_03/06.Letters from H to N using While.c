@@ -8,10 +8,11 @@ int main()
 
   while(Alphabet <= 'N')
   {
-     printf(" %c ", Alphabet);
+     printf("\n %c ", Alphabet);
      Alphabet++;
   }
 
   getch();
   return 0;
 }
+
